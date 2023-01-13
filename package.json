@@ -1,0 +1,31 @@
+{
+    "name": "atm-project-by-bilal",
+    "version": "1.0.1",
+    "description": "It is an ATM example",
+    "main": "index.js",
+    "type": "module",
+    "bin": "./index.js",
+
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bilalahmad77/ATM-Project.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bilalahmad77/ATM-Project/issues"
+    },
+    "homepage": "https://github.com/bilalahmad77/ATM-Project#readme",
+    "dependencies": {
+        "chalk": "^5.2.0",
+        "inquirer": "^9.1.4"
+    },
+    "devDependencies": {
+        "@types/chalk": "^2.2.0",
+        "@types/inquirer": "^9.0.3"
+    }
+}
